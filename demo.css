@@ -1,0 +1,19 @@
+#a {
+    background-color: cornsilk;
+    color: rgb(0, 0, 0);
+    font-family:cursive;
+}
+
+* {
+    background-color: cyan;
+}
+h1,p {
+    background-color: black;
+    color: aliceblue;
+}
+
+.info{
+    background-color: aliceblue;
+    color: black;
+
+}
